@@ -33,13 +33,16 @@ class ViewController: UIViewController {
         }
         //prin("*********")
         print("Ortalama:  \(sonToplam/dersler.count)")
-        
-        
-        
-        
-        
+    
     }
-    
-    
+ 
 }
+/*
+ ["Tarih": 50, "fen": 70, "sos": 80, "mat": 60]
 
+1 )   DersAdı :  Tarih             Notu : 50
+2 )   DersAdı :  fen             Notu : 70
+3 )   DersAdı :  sos             Notu : 80
+4 )   DersAdı :  mat             Notu : 60
+Ortalama:  65
+ */
